@@ -1,2 +1,2 @@
 created a file to check 
-[file](./VSfile.png)
+![Screenshot](./Users/shaktithandavan/Desktop/VSfile.png)
